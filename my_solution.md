@@ -15,5 +15,26 @@ using tree command
 
 moving,renaming copying from source to archiving dir
 
-![image](https://user-images.githubusercontent.com/85178565/227375984-4361f411-f5c0-4e5e-b9d9-74f9424d0851.png)
+![image](https://user-images.githubusercontent.com/85178565/227375984-4361f411-f5c0-4e5e-b9d9-74f9424d0851.png)!
+
+cron job running 
+
+
+[image](https://user-images.githubusercontent.com/85178565/227377631-8e25a811-43ac-423c-99c2-7425189297a6.png)
+
+nano file 
+
+
+![image](https://user-images.githubusercontent.com/85178565/227377812-e080aeea-d6e3-4e6a-b223-5f5168b5a606.png)
+
+Running cronjob in provided path
+
+
+![image](https://user-images.githubusercontent.com/85178565/227379092-8848c335-2295-4463-968e-457540e7901a.png)
+
+
+
+
+
+
 
