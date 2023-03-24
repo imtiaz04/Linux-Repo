@@ -33,7 +33,7 @@ Running cronjob in provided path
 ![image](https://user-images.githubusercontent.com/85178565/227379092-8848c335-2295-4463-968e-457540e7901a.png)
 
 
-using convert command resize image
+using convert command resize image and move one folder to another
 
 ![image](https://user-images.githubusercontent.com/85178565/227405351-8572c415-0599-4446-8f9b-c65c76455511.png)
 
