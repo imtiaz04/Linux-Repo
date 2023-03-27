@@ -8,9 +8,11 @@ sudo groupadd <group name>
   To confirm groupadd
   
   sudo gpasswd -a <user name> < group name>
+  
   ![image](https://user-images.githubusercontent.com/85178565/227740155-25c081ed-e461-4a8f-b341-336ea019e723.png)
 
   Adding multiple users in group 
+  
   
   sudo gpasswd -M <user name>,<user name> <group name>
   
@@ -18,11 +20,19 @@ sudo groupadd <group name>
 
   To confirm whether -users added in to the groups 
   
+  
   sudo cat /etc/group
+  
   ![image](https://user-images.githubusercontent.com/85178565/227740394-f6488a5c-512a-4cf0-a74d-9224a5fe431b.png)
-TO delete user from group
+  
+  
+TO delete user from group  
+  
   
   sudo gpasswd -d <user name> <group name>
+  
+  
+  
   ![image](https://user-images.githubusercontent.com/85178565/227740474-48b7b420-8b24-4da3-a6e2-881c91b6e345.png)
 
   
