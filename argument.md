@@ -1,3 +1,7 @@
+created & maintained by user.
+During shell script execution ,values passing through command prompt is called as command line arguments
+
+
 using arguments we can execute shell script
 
 ![image](https://user-images.githubusercontent.com/85178565/228650088-c9b68494-0d3e-4621-af50-1aa6962fc461.png)
