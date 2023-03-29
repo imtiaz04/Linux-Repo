@@ -12,3 +12,12 @@ here $1 is argument which i am going to use in terminal while executing script
 ![image](https://user-images.githubusercontent.com/85178565/228650453-896560c0-8d75-4735-a4c8-d032d390a2db.png)
 
 variable.sh is argument
+
+
+creating arguments
+
+command:
+
+date |xargs | awk '{print $1}'
+
+![image](https://user-images.githubusercontent.com/85178565/228676584-5bae70f2-f39e-4d4c-a01e-6c354cb6701a.png)
