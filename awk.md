@@ -4,7 +4,7 @@ awk '/INFO/ log.txt
 
 ![image](https://user-images.githubusercontent.com/85178565/227750953-22c0ab21-3fca-4e0f-8744-c1ba195b53d0.png)
 
-get firt 1,2 colums
+get first 1,2 colums
 
  awk '/INFO/ {print $1,$2}' log_file.txt
  
