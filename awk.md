@@ -10,3 +10,13 @@ get first 1,2 colums
  
  ![image](https://user-images.githubusercontent.com/85178565/227751064-e80a932f-b71d-4bcc-9671-946fcfcf5f4d.png)
 
+
+ getting perticular rows like lessthan 50 & grater than 10 from log_file.txt the out put shoud be sent to qa_report1.txt
+ 
+
+ 
+![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/3c9271be-0505-4584-984a-ebfcd18b1e36)
+
+
+ 
+
