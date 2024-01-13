@@ -23,4 +23,31 @@ step 2:
   
   ![image](https://user-images.githubusercontent.com/85178565/228113407-35d43a4b-99dd-4052-b7ee-2a15eb80c649.png)
 
+
+  we can add arguments in shell scripting for ex:./<filename> name1 (nj-is argument 1)
+
+  ![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/2d4e1b5c-9f1f-4f23-a6d8-7a9b7d2033b5)
+
+  below is script
+  
+#!/bin/bash
+
+
+filename=$1
+echo "Enter the file name"
+
+
+
+echo "Checking if $filename exists.."
+
+if [ -f $filename  ]
+then
+
+echo "$filename exists" 
+else
+echo "$filename doesn't exist"
+fi
+~                                                                                                                                                                                                          
+~                   
+
   
