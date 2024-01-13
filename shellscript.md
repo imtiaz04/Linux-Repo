@@ -72,6 +72,11 @@ using lastlog command we can find logged in users
 
 ![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/8b950cc4-94b5-4ec3-a505-a1a71c534616)
 
+finding size & memory
+
+![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/bcb61598-4f46-4396-81bf-542a28356eec)
+
+
 
 
 
