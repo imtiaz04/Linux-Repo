@@ -68,6 +68,11 @@ usung df -h command we can find usage of the system
 
 ![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/f44b69d7-7c8b-4da0-9fa2-5d8d72272121)
 
+using lastlog command we can find logged in users
+
+![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/8b950cc4-94b5-4ec3-a505-a1a71c534616)
+
+
 
 
 
