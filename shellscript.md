@@ -28,7 +28,7 @@ step 2:
 
   ![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/2d4e1b5c-9f1f-4f23-a6d8-7a9b7d2033b5)
 
-  below is script
+  below is script to check file is exists in system from user taking usr inputs
   
 #!/bin/bash
 
