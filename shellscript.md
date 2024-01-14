@@ -64,7 +64,7 @@ we can find files in folders with scripting and i used arguments too..
 
 ![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/267420e0-3bc5-405c-ac17-99a7fe1e2617)
 
-usung df -h command we can find usage of the system
+using df -h command we can find usage of the system
 
 ![image](https://github.com/imtiaz04/Linux-Repo/assets/85178565/f44b69d7-7c8b-4da0-9fa2-5d8d72272121)
 
